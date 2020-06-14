@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "//czepim200.github.io/PIW-LAB05/static/css/main.8353ba4e.chunk.css",
+    "main.js": "//czepim200.github.io/PIW-LAB05/static/js/main.ec404492.chunk.js",
+    "main.js.map": "//czepim200.github.io/PIW-LAB05/static/js/main.ec404492.chunk.js.map",
+    "runtime-main.js": "//czepim200.github.io/PIW-LAB05/static/js/runtime-main.957ae05b.js",
+    "runtime-main.js.map": "//czepim200.github.io/PIW-LAB05/static/js/runtime-main.957ae05b.js.map",
+    "static/js/2.1e7bcaff.chunk.js": "//czepim200.github.io/PIW-LAB05/static/js/2.1e7bcaff.chunk.js",
+    "static/js/2.1e7bcaff.chunk.js.map": "//czepim200.github.io/PIW-LAB05/static/js/2.1e7bcaff.chunk.js.map",
+    "index.html": "//czepim200.github.io/PIW-LAB05/index.html",
+    "precache-manifest.4b6927b0c62ceca0fb4b0aea689fb454.js": "//czepim200.github.io/PIW-LAB05/precache-manifest.4b6927b0c62ceca0fb4b0aea689fb454.js",
+    "service-worker.js": "//czepim200.github.io/PIW-LAB05/service-worker.js",
+    "static/css/main.8353ba4e.chunk.css.map": "//czepim200.github.io/PIW-LAB05/static/css/main.8353ba4e.chunk.css.map",
+    "static/js/2.1e7bcaff.chunk.js.LICENSE.txt": "//czepim200.github.io/PIW-LAB05/static/js/2.1e7bcaff.chunk.js.LICENSE.txt",
+    "static/media/cat.jpg": "//czepim200.github.io/PIW-LAB05/static/media/cat.108adade.jpg",
+    "static/media/mockingjay.jpg": "//czepim200.github.io/PIW-LAB05/static/media/mockingjay.f66606e0.jpg",
+    "static/media/react.png": "//czepim200.github.io/PIW-LAB05/static/media/react.254e2aad.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.957ae05b.js",
+    "static/js/2.1e7bcaff.chunk.js",
+    "static/css/main.8353ba4e.chunk.css",
+    "static/js/main.ec404492.chunk.js"
+  ]
+}
